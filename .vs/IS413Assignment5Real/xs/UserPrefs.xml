@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{6161AD61-FB63-4012-A70C-A803030463EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.IS413Assignment5Real PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IS413Assignment5Real/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="IS413Assignment5Real/Views/Home/Index.cshtml" Line="10" Column="21" />
+      <File FileName="IS413Assignment5Real/Views/Home/Privacy.cshtml" />
+      <File FileName="IS413Assignment5Real/Views/Home/BookList.cshtml" />
+      <File FileName="IS413Assignment5Real/Infrastructure/PageLinkTagHelper.cs" />
+      <File FileName="IS413Assignment5Real/Models/ViewModels/BookListViewModel.cs" />
+      <File FileName="IS413Assignment5Real/Models/ViewModels/PagingInfo.cs" />
+      <File FileName="IS413Assignment5Real/Components/NavigationMenuViewComponent.cs" />
+      <File FileName="IS413Assignment5Real/Models/EFBooksRepository.cs" />
+      <File FileName="IS413Assignment5Real/Startup.cs" />
+      <File FileName="IS413Assignment5Real/Pages/_ViewStart.cshtml" />
+      <File FileName="IS413Assignment5Real/Pages/_ViewImports.cshtml" />
+      <File FileName="IS413Assignment5Real/Pages/Shared/_SharedLayout.cshtml" />
+      <File FileName="IS413Assignment5Real/Views/_ViewImports.cshtml" />
+      <File FileName="IS413Assignment5Real/Views/_ViewStart.cshtml" />
+      <File FileName="IS413Assignment5Real/Views/Shared/_Layout.cshtml" />
+      <File FileName="IS413Assignment5Real/Pages/AddBook.cshtml" />
+      <File FileName="IS413Assignment5Real/Pages/AddBook.cshtml.cs" />
+      <File FileName="IS413Assignment5Real/Infrastructure/UrlExtensions.cs" />
+      <File FileName="IS413Assignment5Real/Views/Shared/BookLists.cshtml" />
+      <File FileName="IS413Assignment5Real/Models/Cart.cs" />
+      <File FileName="IS413Assignment5Real/Infrastructure/SessionExtensions.cs" />
+      <File FileName="IS413Assignment5Real/Models/Book.cs" />
+      <File FileName="IS413Assignment5Real/Views/Shared/Error.cshtml" />
+      <File FileName="IS413Assignment5Real/Controllers/HomeController.cs" />
+      <File FileName="IS413Assignment5Real/Views/Shared/Components/NavigationMenu/Default.cshtml" />
+      <File FileName="IS413Assignment5Real/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="IS413Assignment5Real/wwwroot/css/stylez.css" />
+      <File FileName="IS413Assignment5Real/Models/IBooksRepository.cs" />
+      <File FileName="IS413Assignment5Real/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IS413Assignment5Real" expanded="True">
+            <Node name="IS413Assignment5Real" expanded="True">
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="AddBook.cshtml" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>docker-compose.dcproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
