@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.IS413Assignment5Real PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="IS413Assignment5Real/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="IS413Assignment5Real/Views/Home/Index.cshtml" Line="10" Column="21" />
+      <File FileName="IS413Assignment5Real/Views/Home/Index.cshtml" Line="12" Column="19" />
       <File FileName="IS413Assignment5Real/Views/Home/Privacy.cshtml" />
       <File FileName="IS413Assignment5Real/Views/Home/BookList.cshtml" />
       <File FileName="IS413Assignment5Real/Infrastructure/PageLinkTagHelper.cs" />

@@ -30,7 +30,7 @@
                     @line.book.Price
                 </td>
                 <td>
-                    @(line.Quantity * line.book.Price )
+                    @(Math.Round((line.Quantity * line.book.Price),2) )
                 </td>
                 <td>
                     <form asp-page="/AddBook" method="post">
