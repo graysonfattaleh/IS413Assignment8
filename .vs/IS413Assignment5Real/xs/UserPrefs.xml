@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{6161AD61-FB63-4012-A70C-A803030463EF}|Default">
   <MonoDevelop.Ide.ItemProperties.IS413Assignment5Real PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="IS413Assignment5Real/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IS413Assignment5Real/Pages/AddBook.cshtml">
     <Files>
       <File FileName="IS413Assignment5Real/Views/Home/Index.cshtml" Line="12" Column="19" />
       <File FileName="IS413Assignment5Real/Views/Home/Privacy.cshtml" />
@@ -17,7 +17,7 @@
       <File FileName="IS413Assignment5Real/Views/_ViewImports.cshtml" />
       <File FileName="IS413Assignment5Real/Views/_ViewStart.cshtml" />
       <File FileName="IS413Assignment5Real/Views/Shared/_Layout.cshtml" />
-      <File FileName="IS413Assignment5Real/Pages/AddBook.cshtml" />
+      <File FileName="IS413Assignment5Real/Pages/AddBook.cshtml" Line="26" Column="21" />
       <File FileName="IS413Assignment5Real/Pages/AddBook.cshtml.cs" />
       <File FileName="IS413Assignment5Real/Infrastructure/UrlExtensions.cs" />
       <File FileName="IS413Assignment5Real/Views/Shared/BookLists.cshtml" />
@@ -43,12 +43,10 @@
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True" />
-                <Node name="AddBook.cshtml" expanded="True" />
+                <Node name="AddBook.cshtml" expanded="True" selected="True" />
               </Node>
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
