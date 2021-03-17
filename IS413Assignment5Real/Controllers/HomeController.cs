@@ -38,12 +38,13 @@ namespace IS413Assignment5Real.Controllers
             try
             {
                 Cart cart = HttpContext.Session.GetJson<Cart>("cart");
-               ViewData["CartQuantity"] = cart.ComputeBookCount(); ;
-                ViewData["CartPrice"] = cart.ComputeTotalSum(); ;
+               ViewData["CartQuantity"] = cart.ComputeBookCount(); 
+                ViewData["CartPrice"] = cart.ComputeTotalSum(); 
             }
             catch
             {
                 ViewData["CartQuantity"] = 0;
+                ViewData["CartPrice"] = 0;
             };
             if (ModelState.IsValid)
             {
